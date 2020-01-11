@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="bell" unicode="&#58930;" d="M640 0a128 128 0 0 0-256 0h256z m268.288 196.608c29.824-20.928 51.712-51.2 51.712-87.616V64H64v44.992c0 36.416 21.824 66.688 51.648 87.616 70.976 49.856 71.872 268.544 92.608 393.216C227.072 702.72 312 757.376 382.72 768H384v1.216A126.72 126.72 0 0 0 510.72 896h2.496C583.232 896 640 839.232 640 769.216V768h1.216c70.784-10.624 155.648-65.28 174.464-178.176 20.736-124.672 21.696-343.36 92.608-393.216z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

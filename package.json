@@ -1,0 +1,44 @@
+{
+  "name": "bgg",
+  "version": "1.0.0",
+  "main": "bgg.js",
+  "scripts": {
+    "test": "",
+    "start": "gulp pro",
+    "dev": "gulp dev",
+    "pro": "gulp pro"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/preset-env": "^7.7.7",
+    "browser-sync": "^2.16.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.7.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/bluej/Project-aoBaoLe.git"
+  },
+  "description": ""
+}
