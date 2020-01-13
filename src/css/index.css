@@ -41,6 +41,7 @@
           .web section .info .won_info li .icon-bell {
             background-image: -webkit-linear-gradient(bottom, #e49d2d, #ffd76e);
             background-image: linear-gradient(to top, #e49d2d, #ffd76e);
+            background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             margin-right: 10px; }

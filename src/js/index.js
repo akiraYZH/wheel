@@ -189,6 +189,9 @@ async function history() {
     while (oHistoryUl.children[0].offsetHeight * oHistoryUl.children.length < oHistoryUl.offsetHeight) {
         // alert();
         await getOnePage(++page, page_num);
+        if(pageData ==-1){
+            break;
+        }
     }
 
 
